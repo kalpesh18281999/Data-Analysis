@@ -22,7 +22,7 @@ Hypothesis:
 •	When there is a longer waiting list, customers tend to cancel more frequently.
 •	The majority of clients are coming from offline travel agents to make their reservations
 Analysis & Findings:
- 
+![cancellation Status of Bookings](https://github.com/kalpesh18281999/Data-Analysis/assets/89903875/eba9adad-7970-46d2-be71-5658c0126768)
 The bar graph illustrates the distribution of reservations between those that have been canceled and those that remain active. Notably, a substantial portion of reservations are still active, despite some being canceled.
 
  
